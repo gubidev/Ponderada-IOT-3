@@ -10,6 +10,7 @@ O objetivo é controlar um semáforo, alternando as luzes de acordo com uma temp
 
 * 1x Placa Arduino (UNO ou compatível)
 * 1x Protoboard
+* 1x Base LED
 * 1x LED Vermelho
 * 1x LED Amarelo
 * 1x LED Verde
