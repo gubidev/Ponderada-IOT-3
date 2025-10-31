@@ -30,7 +30,8 @@ As conexões de hardware devem seguir o esquema abaixo, conforme definido nas co
 <img src="Exquisite Habbi (1).png" alt="I" style="width: 500px;">
 
 **Video da Montagem:**
-<img src="Exquisite Habbi (1).png" alt="I" style="width: 500px;">
+
+https://drive.google.com/file/d/1vlGP9pYG_Y9Gzn5b4MyCFd_rEg1-yhHZ/view?usp=sharing 
 
 ## 4. Lógica de Funcionamento
 
