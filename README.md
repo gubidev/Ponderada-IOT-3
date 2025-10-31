@@ -26,7 +26,11 @@ As conexões de hardware devem seguir o esquema abaixo, conforme definido nas co
 * **`PINO_LED_VERDE` (Porta 8):** Conectar o ânodo (pino longo) do LED verde a esta porta, através de um resistor.
 * **`GND`:** Conectar o cátodo (pino curto) de **todos** os LEDs ao pino `GND` do Arduino.
 
-**Video da M
+**Foto da Montagem:**
+<img src="Exquisite Habbi (1).png" alt="I" style="width: 500px;">
+
+**Video da Montagem:**
+<img src="Exquisite Habbi (1).png" alt="I" style="width: 500px;">
 
 ## 4. Lógica de Funcionamento
 
